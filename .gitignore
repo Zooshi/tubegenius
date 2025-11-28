@@ -31,6 +31,7 @@ test_*.py
 
 # MCP config (may contain tokens)
 mcp_config_info.txt
+mcp.json
 
 # Memory bank (project-specific)
 memory-bank/
