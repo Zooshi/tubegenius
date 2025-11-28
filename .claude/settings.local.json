@@ -38,7 +38,8 @@
       "Bash(powershell -Command:*)",
       "Bash(if not exist memory-bank mkdir memory-bank)",
       "Bash(npm install:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)"
     ],
     "deny": []
   },
