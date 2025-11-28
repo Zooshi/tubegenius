@@ -1,0 +1,3 @@
+To use mcp.json in claude code start claude code with --mcp-config mcp.json 
+To add a skill to a subagent just add skills: seoskill, designskill,... to the subagent yaml config in claude code
+n8n workflow dev lesson. If claude hits a limit or want to build another feature let claude create a achieved so far, current status and next steps file for next session.
