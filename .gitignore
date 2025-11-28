@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+daniel/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots from tests
+screenshot_*.png
+
+# Test files
+test_*.py
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# MCP config (may contain tokens)
+mcp_config_info.txt
+
+# Memory bank (project-specific)
+memory-bank/
+
+# Playwright
+playwright-report/
+test-results/
